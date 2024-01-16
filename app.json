@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "proyectoNasa",
+    "slug": "proyectoNasa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jordisalazarbadia.proyectoNasa"
+    },
+    "web": {
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e244a2ea-0418-4ed2-9feb-3ad5e27c8d2d"
+      }
+    }
+  }
+}
